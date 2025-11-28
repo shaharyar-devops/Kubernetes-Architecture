@@ -1,0 +1,3 @@
+ClusterIP: An internal-only IP for a service so other pods inside the cluster can reach it; not accessible from the internet.
+NodePort: Opens a fixed port on every node, so you can reach the service from outside using nodeIP:nodePort.
+LoadBalancer: Gets a public (or private) external IP from your platform and forwards traffic to the service; easiest for internet/VPC access.
