@@ -2,24 +2,7 @@
 
 
 
-\## Commands I Used
-
-
-
-\- `kubectl apply -f pod.yml` → Create Pod from YAML
-
-\- `kubectl get pods` → List all Pods
-
-\- `kubectl get pods -o wide` → List Pods with IP and node info
-
-\- `kubectl apply -f deployment.yml` → Create Deployment
-
-\- `kubectl delete pod <pod-name>` → Delete a Pod manually
-
-\- `minikube ssh` → Access Minikube cluster
-
-\- `notepad pod.yml` → Edit YAML from CLI
-
+This property pf Kubernetes is very good as it heals itself when ever a pod is deleted by mistake or  by any error .
 
 
 ---
