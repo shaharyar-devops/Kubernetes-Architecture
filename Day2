@@ -1,0 +1,13 @@
+Today I learn many things about Kubernetes node port
+
+I created :
+1: Deploymnet.yml file
+2: Service.yml file 
+3: Dockerfile
+
+From Docker file we created an image and named it 
+Second build the image and deployed it using Deployment.yml file 
+Third I used Node Port service because I want my internal enviornmnet to talk to the minikube Node (Service Discovery)
+One more important thing is that we should always tag the image 
+
+After the setup Now I have the access of the minikube maschine from my external browser using the node port . 
