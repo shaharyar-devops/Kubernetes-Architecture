@@ -1,0 +1,14 @@
+🚀 Today’s Learning Highlights – Kubernetes + Docker + Node.js
+I focused on both theoretical and practical concepts and completed hands-on work across Docker, Kubernetes, and VS Code.
+🔹 Kubernetes Workflow Practiced
+1️⃣ Create Cluster – Using minikube start / cloud-based Kubernetes
+2️⃣ Deploy Application – kubectl create deployment
+3️⃣ Explore Application – kubectl get pods, kubectl logs, kubectl exec
+4️⃣ Expose Application – kubectl expose deployment
+5️⃣ Scale Application – kubectl scale deployment
+6️⃣ Update Application – kubectl set image + rollout commands
+🔹 Docker + Node.js Work
+Built a Node.js application and wrote a complete Dockerfile in VS Code
+Successfully containerized and deployed the app
+Next step: integrating the containerized app with Kubernetes for end-to-end orchestration
+Excited to continue building real-world DevOps skills and improving my Kubernetes workflow every day! 🚀🐳☸️
